@@ -29,7 +29,7 @@ Review the argument reference that you can specify for your data source.
 
 In addition to all argument references listed, you can access the following attribute references after your data source is created.
 
-* `id` - The unique identifier of the Project definition.
+* `id` - The unique identifier of the project.
 * `configs` - (List) The project configurations.
   * Constraints: The maximum length is `10000` items. The minimum length is `0` items.
 Nested scheme for **configs**:
